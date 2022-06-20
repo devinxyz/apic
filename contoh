@@ -1,0 +1,28 @@
+Result example :
+
+{
+    "curr_val": "Provinsi",
+    "message": "No message returned",
+    "results": [
+        {
+            "key": "ACEH",
+            "value": "ACEH"
+        },
+        {
+            "key": "BALI",
+            "value": "BALI"
+        },
+        {
+            "key": "BANTEN",
+            "value": "BANTEN"
+        },
+        {
+            "key": "BENGKULU",
+            "value": "BENGKULU"
+        },
+        {
+            "key": "DKI JAKARTA",
+            "value": "DKI JAKARTA"
+        }
+    ]
+}
